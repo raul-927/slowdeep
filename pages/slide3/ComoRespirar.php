@@ -15,7 +15,7 @@
 					<div id="ComoRespirar" class="panel-collapse collapse ">
 						<div class="panel-body">
 						<p>
-							La Respiraci&oacute;n es Vida
+							La Respiraci&oacute;n es Vida.
 						</p>
 						<p>
 							Seg&uacute;n la tradici&oacute;n Yogui, la esperanza de vida est&aacute; relacionada con la respiraci&oacute;n (frecuencia respiratoria).
@@ -45,10 +45,10 @@
 							Uno debe imaginar absorbiendo la energ&iacute;a vitalizadora del universo.
 						</p>
 						<p>
-							Ejercicio: "Durante la retenci&oacute;n hay que centrar la atenci&oacute;n en extraer la energ&iacute;a vital, la fuerza vital del aire y hacerla circular por todo el cuerpo (organismo).
+							<span class ="destacadoAzul">Ejercicio: "Durante la retenci&oacute;n hay que centrar la atenci&oacute;n en extraer la energ&iacute;a vital, la fuerza vital del aire y hacerla circular por todo el cuerpo (organismo).</span>
 						</p>
 						<p>
-							Durante la exhalaci&oacute;n debemos imaginar que toda la negatividad, las afecciones f&iacute;sicas o la tensi&oacute;n abandonan el cuerpo regresando a la tierra para ser purificadas".
+							<span class ="destacadoVerde">Durante la exhalaci&oacute;n debemos imaginar que toda la negatividad, las afecciones f&iacute;sicas o la tensi&oacute;n abandonan el cuerpo regresando a la tierra para ser purificadas".</span>
 						</p>
 						<p>
 							Se debe inhalar lentamente y hacer otro tanto al exhalar, sin exceder la capacidad de retenci&oacute;n, ni exhalar demasiado r&aacute;pidamente. El control de la respiraci&oacute;n establece armon&iacute;a y equilibrio en todo el organismo.
@@ -144,7 +144,7 @@
 							En una respiraci&oacute;n incompleta no todas las c&eacute;lulas de los pulmones entran en funci&oacute;n y se pierde as&iacute; una gran parte de la capacidad pulmonar, sufriendo el sistema en proporci&oacute;n a la falta de oxigenaci&oacute;n.
 						</p>
 						<p>
-							* Material obtenido de diversos libros de yoga.
+							<span class ="destacadoAzul">* Material obtenido de diversos libros de yoga.</span>
 						</p>
 						<p>	
 							Los seres humanos deben progresar en el plano ps&iacute;quico
@@ -164,13 +164,13 @@
 
 							Por tanto el ejercicio del SlowDeep es una de las mejores acciones que podemos tomar para estar con nuestra mente en estado &oacute;ptimo.
 						</p>
-						<h6>Motivaci&oacute;n y prop&oacute;sito</h6>
+						<h3 class ="h3Destacado">Motivaci&oacute;n y prop&oacute;sito</h3>
 						<p>
 							El Slow Deep fue creado despu&eacute;s de observar el desconocimiento y la gran dificultad que el ser humano muestra en su mayor&iacute;a, acerca del control de la respiraci&oacute;n y sus grandes beneficios. La invenci&oacute;n de este mecanismo audio respiratorio fue realizado con el prop&oacute;sito de entrenar, capacitar y facilitar un aprendizaje r&aacute;pido y efectivo a todas las personas, con una instrucci&oacute;n sencilla. Escuchar y respirar.
 
 							Prepar&aacute;ndose de forma efectiva para el control del estr&eacute;s adverso de manera eficiente, uno podr&aacute; as&iacute;, dirigir m&aacute;s energ&iacute;a mental hacia el logro de sus prioridades al aumentar de manera notable, el poder de concentraci&oacute;n.
 						</p>
-						<h6>Estudio y experimentaci&oacute;n</h6>
+						<h3 class ="h3Destacado">Estudio y experimentaci&oacute;n</h3>
 						<p>
 							El sonido modifica nuestras ondas cerebrales, y nos puede ayudar a entrar en otros niveles de conciencia seg&uacute;n sean estos los elegidos.
 
@@ -188,54 +188,57 @@
 
 							El factor m&aacute;s significante para la salud y la longevidad es la manera de c&oacute;mo se respira.
 						</p>
-						<h5>Beneficios</h5>
+						<h3 class ="h3Destacado">Beneficios</h3>
 						<p>
-							<ol>
+							<ol class ="listadoOrdenado">
 								<li>
-									Sistema respiratorio: 
+									<span class ="destacadoAzul">Sistema respiratorio:</span> 
 									Puede reducir la fatiga mental y f&iacute;sica, tanto como aliviar los s&iacute;ntomas de hipertensi&oacute;n, asma y bronquitis.
 								</li>
 								<li>
-									Sistema circulatorio: 
+									<span class ="destacadoAzul">Sistema circulatorio:</span> 
 									Mejorando la circulaci&oacute;n de la sangre y la oxigenaci&oacute;n de las c&eacute;lulas en todo el cuerpo purific&aacute;ndola.
 								</li>
 								<li>
-									Sistema nervioso: 
+									<span class ="destacadoAzul">Sistema nervioso:</span>
 									Calma de la mente, mejora de la concentraci&oacute;n, y toma de control sobre las emociones adversas.
 								</li>
 								<li>
-									Sistema digestivo: 
+									<span class ="destacadoAzul">Sistema digestivo:</span> 
 									Al actuar como un surtidor para masajear los &oacute;rganos internos.
 								</li>
 								<li>
-									Sistema end&oacute;crino: 
+									<span class ="destacadoAzul">Sistema end&oacute;crino:</span> 
 									La acci&oacute;n del diafragma ayuda a impulsar la linfa por todo el cuerpo, 
 									lo que ayuda a eliminar los desperdicios t&oacute;xicos y fortalecer el sistema inmunol&oacute;gico.
 								</li>
 								<li>
-									Sistema urinario: 
+									<span class ="destacadoAzul">Sistema urinario:</span>
 									Al ayudar a eliminar fluidos y masajear los ri&ntilde;ones
 								</li>
 								<li>
-									La piel: 
+									<span class ="destacadoAzul">La piel:</span> 
 									Se elimina el t&oacute;xico CO2 m&aacute;s directamente por medio de la respiraci&oacute;n, 
 									y la piel tambi&eacute;n se puede afectar positivamente al mejorar el fluido de la sangre y la oxigenaci&oacute;n."
 								</li>
 								<li>
-									Apertura canales de Energ&iacute;a Eficiente para el desarrollo de las capacidades f&iacute;sicas y mentales
+									<span class ="destacadoAzul">Apertura canales:</span>
+									Energ&iacute;a Eficiente para el desarrollo de las capacidades f&iacute;sicas y mentales
 								</li>
 								<li>
-									Es aplicado para el Refinamiento de la Percepci&oacute;n Sensorial.
+									<span class ="destacadoAzul">Es aplicado para:</span>
+									El Refinamiento de la Percepci&oacute;n Sensorial.
 								</li>
 								<li>
-									Agudiza la concentraci&oacute;n, y predispone a la mente para la observaci&oacute;n de ideas en la Placa Mental y su viable ejecuci&oacute;n
+									<span class ="destacadoAzul">Agudiza la concentraci&oacute;n:</span>
+									Predispone a la mente para la observaci&oacute;n de ideas en la Placa Mental y su viable ejecuci&oacute;n
 								</li>
 								
 								<li>
-									Mecanismo para desarrollar la mente eficiente del individuo
+									<span class ="destacadoAzul">Mecanismo</span> para desarrollar la mente eficiente del individuo
 								</li>
 							</ol>
-							<h4> "Lo mejor que podemos hacer por la salud f&iacute;sica y mental es respirar debidamente" </h4>
+							<h4> <span class= "destacadoVerde">Lo mejor que podemos hacer por la salud f&iacute;sica y mental es respirar debidamente"</span> </h4>
 						</p>
 						</div>
 

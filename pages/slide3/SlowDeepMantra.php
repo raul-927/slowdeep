@@ -10,24 +10,27 @@
 							<a data-toggle="collapse" data-parent="#accordion" href="#SlowDeepMantra">
 								SlowDeep Mantra
 							</a>
+							
 						</h4>
 					</div>
 					<div id="SlowDeepMantra" class="panel-collapse collapse ">
 						<div class="panel-body">
-							 SlowDeep Mantra
+							 <h3 class ="hrDestacado"><span class ="destacadoAzul">SlowDeep Mantra</span></h3>
+							<p>
+								Aprende a unir tu ritmo de respiraci&oacute;n con el sonido del mantra Universal (Maha Mantra).
 
-							Aprende a unir tu ritmo de respiraci&oacute;n con el sonido del mantra Universal (Maha Mantra).
-
-							Om
-
-							"Baba Nam Kevalam"
-
-							(Significado para ideaci&oacute;n)
-
-							La Mente del Universo es mi mente
-							La Conciencia Infinita est&aacute; en m&iacute;
-							"Todo es el Ser Supremo"
-
+								Om
+							</p>
+							<p>
+								"Baba Nam Kevalam" (Significado para ideaci&oacute;n)
+							</p>
+							
+							<p>
+								La Mente del Universo es mi mente
+								La Conciencia Infinita est&aacute; en m&iacute;
+								"Todo es el Ser Supremo"
+							</p>
+							
 							(MEDITAR EN EL UNIVERSO INFINITO SINTIENDO LA UNION DE LA MENTE CON TODA LA CREACION)
 							TECNICA: Repetir internamente
 							
