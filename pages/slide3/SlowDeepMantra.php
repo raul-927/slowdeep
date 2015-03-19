@@ -16,6 +16,7 @@
 					<div id="SlowDeepMantra" class="panel-collapse collapse ">
 						<div class="panel-body">
 							 <h3 class ="hrDestacado"><span class ="destacadoAzul">SlowDeep Mantra</span></h3>
+							
 							<p>
 								Aprende a unir tu ritmo de respiraci&oacute;n con el sonido del mantra Universal (Maha Mantra).
 
@@ -30,9 +31,11 @@
 								La Conciencia Infinita est&aacute; en m&iacute;
 								"Todo es el Ser Supremo"
 							</p>
-							
+							<p>
 							(MEDITAR EN EL UNIVERSO INFINITO SINTIENDO LA UNION DE LA MENTE CON TODA LA CREACION)
-							TECNICA: Repetir internamente
+							TECNICA:
+							</p>
+							Repetir internamente
 							
 							    Incorp&oacute;rale "BabaNam" dici&eacute;ndolo mentalmente al inhalar, alargando la "m" hasta el final.
 							    Incorp&oacute;rale "Kevalam" dici&eacute;ndolo mentalmente al exhalar, alargando la "m" hasta el final.
